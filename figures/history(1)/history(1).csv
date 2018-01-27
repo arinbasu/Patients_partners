@@ -1,0 +1,22 @@
+Recent queries in pubmed
+Search,Query,Items found,Time
+#18,"Search (epatient[Title/Abstract]) OR e-patient[Title/Abstract] Filters: Review; Clinical Trial; Full text; published in the last 10 years; Humans; English",19,04:02:15
+#17,"Search (""participatory medicine""[Title/Abstract]) OR ""narrative medicine""[Title/Abstract] Filters: Review; Clinical Trial; Full text; published in the last 10 years; Humans; English",26,03:52:06
+#16,"Search #4 AND #8 Filters: Review; Clinical Trial; Full text; published in the last 10 years; Humans; English Sort by: PublicationDate",40,02:19:10
+#15,"Search #4 AND #8 Filters: Review; Clinical Trial; Full text; published in the last 10 years; English Sort by: PublicationDate",47,02:14:49
+#14,"Search #4 AND #8 Filters: Review; Clinical Trial; Full text; published in the last 10 years Sort by: PublicationDate",52,02:14:11
+#13,"Search #4 AND #8 Filters: Review; Full text; published in the last 10 years Sort by: PublicationDate",52,02:14:00
+#12,"Search #4 AND #8 Filters: Full text; published in the last 10 years Sort by: PublicationDate",67,02:12:37
+#11,"Search #4 AND #8 Filters: Full text Sort by: PublicationDate",76,02:12:26
+#9,"Search #4 AND #8",84,02:12:12
+#10,"Search (""2008""[Date - MeSH] : ""Present""[Date - MeSH])",0,02:11:48
+#8,"Search #5 OR #7",2753551,02:09:54
+#7,"Search survey[Title/Abstract]",433230,02:09:37
+#6,"Search trial[Publication Type]",0,02:09:11
+#5,"Search review[Publication Type]",2339151,02:08:52
+#4,"Search #2 OR #3",478,02:07:54
+#3,"Search (""participatory medicine"") OR ""narrative medicine""",310,02:07:39
+#2,"Search (epatient) OR e-patient",169,02:07:14
+#1,"Search (epatient[MeSH Terms]) OR e-patient[MeSH Terms]",0,02:06:56
+
+
