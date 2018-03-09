@@ -6,5 +6,4 @@ k9ga6l8ljks.html
 5vbrmefmups.html
 dfgm0c387ic.html
 gi90dkccom.html
-figures/history(1)
 h9nhql668ic.html
