@@ -17,3 +17,5 @@ grid:
     - 1
     - 1
     url: "/users/2191/articles/275912/master/file/figures/history(1)/history(1).csv"
+    folder_url: "/users/2191/articles/275912/master/folder/figures/history(1)"
+    treatFirstLineAsHeader: true
