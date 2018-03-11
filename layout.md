@@ -5,6 +5,7 @@ o36hkgemto8.html
 k9ga6l8ljks.html
 5vbrmefmups.html
 dfgm0c387ic.html
+figures/history(1)
 4735mpm7bag.html
 gi90dkccom.html
 tdlpslnn8sk.html
