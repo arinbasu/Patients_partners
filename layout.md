@@ -7,7 +7,6 @@ k9ga6l8ljks.html
 dfgm0c387ic.html
 figures/history(1)
 4735mpm7bag.html
-s3nv0c768cc.html
 ves9ve2e3tc.html
 6706i47kcjs.html
 7qcv0s1al28.html
